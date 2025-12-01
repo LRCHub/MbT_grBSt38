@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Silence",
+  "base_artist": "Marshmello",
+  "createdAt": "2025-12-01T12:18:34.294755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Silence On the Line",
+      "artist": "Chris LeDoux",
+      "has_synced": true,
+      "path": "select/01_Silence_On_the_Line_Chris_LeDoux.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Silence Is Golden",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_Silence_Is_Golden_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "More Silence More Coffins",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/03_More_Silence_More_Coffins_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Silence Is Golden (Moral Morph)",
+      "artist": "LB",
+      "has_synced": false,
+      "path": "select/04_Silence_Is_Golden_(Moral_Morph)_LB.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What Passes for Silence",
+      "artist": "The Lucksmiths",
+      "has_synced": false,
+      "path": "select/05_What_Passes_for_Silence_The_Lucksmiths.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Enjoy The Silence",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/06_Enjoy_The_Silence_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mary of Silence",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/07_Mary_of_Silence_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Silence",
+      "artist": "Moby & The Void Pacific Choir",
+      "has_synced": false,
+      "path": "select/08_Silence_Moby_&_The_Void_Pacific_Choir.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Enjoy the Silence",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/09_Enjoy_the_Silence_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "And Then There Was Silence",
+      "artist": "Blind Guardian",
+      "has_synced": false,
+      "path": "select/10_And_Then_There_Was_Silence_Blind_Guardian.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "And Then There Was Silence",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/11_And_Then_There_Was_Silence_Blind_Guardian.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SILENCE",
+      "artist": "KAT-TUN",
+      "has_synced": false,
+      "path": "select/pl_01_SILENCE_KAT-TUN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Silence",
+      "artist": "KAT-TUN",
+      "has_synced": false,
+      "path": "select/pl_02_Silence_KAT-TUN.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "SILENCE and FIRE",
+      "artist": "KAT-TUN",
+      "has_synced": false,
+      "path": "select/pl_03_SILENCE_and_FIRE_KAT-TUN.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "silence",
+      "artist": "KAT-TUN",
+      "has_synced": false,
+      "path": "select/pl_04_silence_KAT-TUN.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Silence word",
+      "artist": "KAT-TUN",
+      "has_synced": false,
+      "path": "select/pl_05_Silence_word_KAT-TUN.txt"
+    }
+  ]
+}
